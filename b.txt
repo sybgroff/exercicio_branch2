@@ -1,1 +1,3 @@
 meu arquivo b
+olar b
+linha 3 em b
